@@ -6,8 +6,8 @@ require 'gem_test/version'
 Gem::Specification.new do |spec|
   spec.name          = "gem_test"
   spec.version       = GemTest::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["Goyachanpuru"]
+  spec.email         = ["goyachanpuru.kk@gmail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
